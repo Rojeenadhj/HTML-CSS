@@ -1,0 +1,37 @@
+<a href="https://www.amazon.in/?ie=UTF8&tag=googmantxtmob50-21&ascsubtag=_k_Cj0KCQjw7aqkBhDPARIsAKGa0oKSin--qNMboeLPCqwAHTVk8Bmiekb6bc6g5bJTLlB4ypqPgouhgasaAg17EALw_wcB_k_&gclid=Cj0KCQjw7aqkBhDPARIsAKGa0oKSin--qNMboeLPCqwAHTVk8Bmiekb6bc6g5bJTLlB4ypqPgouhgasaAg17EALw_wcB" target="_blank">Back to Amazon</a>
+<style>
+    .nike-p{
+        font-size: 30px;
+        font-weight: bold;
+        font-style: normal;
+    }
+</style>
+<p class="nike-p">Nike Black Running Shoes</p>
+<style>
+    .stock-p{
+        color: rgb(0, 118, 0);
+    }
+</style>
+<p class="stock-p">$39 - in stock</p>
+<p>Free delivery tommorow.</p>
+<style>
+    .add-button{
+        background-color: rgb(255, 216, 20);
+        height: 40px;
+        width: 105px;
+        border: none;
+        border-radius: 18px;
+        cursor: pointer;
+    }
+    .buy-button{
+        background-color: rgb(255, 164, 28);
+        border: none;
+        border-radius: 18px;
+        height: 35px;
+        width: 100px;
+        cursor: pointer;
+        margin-left: 10px;
+    }
+</style>
+<button class="add-button">Add to Cart</button>
+<button class="buy-button">Buy now</button>
